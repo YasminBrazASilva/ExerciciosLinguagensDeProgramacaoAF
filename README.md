@@ -11,4 +11,22 @@ Vocês irão desenvolver uma ToDo list usando todas as tecnologias que vimos no 
 
 Esse projeto pode ser expandido adicionando funcionalidades extras, como a capacidade de editar tarefas, classificar tarefas por prioridade, adicionar prazos às tarefas, entre outras. 
 
-<b> Resolução: [index.html](AF/index.html), [styles.css](AF/styles.css), [script.js](AF/script.js)</b>
+<b> Resolução: [index.html](AF/index.html), [styles.css](AF/styles.css), [script.js](AF/script.js)</b> <br>
+<b> Vídeo expositivo: https://www.loom.com/share/4afa65856d904c0facd88260dba325df<b>
+
+## IMAGENS
+### Site completo com registros de atividades 
+As atividades "PasseAr com a Amora", "Trabalhar", "Ir para a faculdade" e "Dormir" já foram adicionadas, a tarefa "Comer" está sendo adicionada <br>
+![image](https://github.com/YasminBrazASilva/ExerciciosLinguagensDeProgramacaoAF/assets/141586083/f07b280b-3137-4ddc-b1fe-2b84fc53030f)
+
+### Tarefa concluída
+A tarefa "PasseAr com a Amora" foi dada como concluída <br>
+![image](https://github.com/YasminBrazASilva/ExerciciosLinguagensDeProgramacaoAF/assets/141586083/62526d8b-e14d-4f5a-acbb-daa0f8e60a4c)
+
+### Tarefa em processo de edição
+Substituição de "PasseAr" por "Passear"<br>
+![image](https://github.com/YasminBrazASilva/ExerciciosLinguagensDeProgramacaoAF/assets/141586083/e42f953c-c1a3-4949-80e8-9acb074905c1)
+
+### Tarefa "Dormir" excluída
+A tarefa "Dormir" foi excluída da lista <br>
+![image](https://github.com/YasminBrazASilva/ExerciciosLinguagensDeProgramacaoAF/assets/141586083/961437ab-7bc6-41f9-9bdc-b6bf69b8ec51)
